@@ -1,0 +1,17 @@
+a,
+img,
+h2 {
+    display: block;
+    margin: auto auto;
+    text-align: center;
+    margin-top: 20px;
+}
+
+img {
+    height: 200px;
+}
+
+a {
+    border: solid black 3px;
+    width: 100px;
+}
